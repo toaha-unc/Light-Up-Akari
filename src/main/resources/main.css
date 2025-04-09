@@ -1,0 +1,94 @@
+/**
+ * Write CSS code in this file to style your JavaFX user interface
+ *
+ * Note: You must link this file to your scene object by adding the following line of code to the
+ * JavaFX start() method:
+ *   scene.getStylesheets().add("main.css");
+ */
+
+.reset {
+        -fx-font-size: 12px;
+        -fx-text-fill: gold;
+        -fx-background-color: darkred;
+        -fx-border-color: gold;
+}
+.next {
+        -fx-font-size: 12px;
+        -fx-text-fill: gold;
+        -fx-background-color: darkred;
+        -fx-border-color: gold;
+}
+
+.prev {
+        -fx-font-size: 12px;
+        -fx-text-fill: gold;
+        -fx-background-color: darkred;
+        -fx-border-color: gold;
+}
+
+.random {
+        -fx-font-size: 12px;
+        -fx-text-fill: gold;
+        -fx-background-color: darkred;
+        -fx-border-color: gold;
+}
+
+.controlPane {
+        -fx-background-color: darkred;
+        -fx-padding: 1;
+}
+
+.stackPaneMessage {
+        -fx-background-color: darkred;
+}
+
+.labelMessage {
+        -fx-font-size: 20px;
+        -fx-text-fill: gold;
+}
+
+.unlitCorridor {
+        -fx-background-color: white;
+         -fx-border-color: black;
+}
+
+.litCorridor {
+        -fx-background-color: yellow;
+        -fx-border-color: black;
+}
+
+.legalLamp {
+        -fx-background-color: yellow;
+        -fx-border-color: black;
+}
+
+.illegalLamp {
+        -fx-background-color: darkred;
+        -fx-border-color: black;
+}
+
+.wall {
+        -fx-background-color: black;
+        -fx-border-color: black;
+}
+
+.clue {
+        -fx-background-color: black;
+        -fx-border-color: black;
+        -fx-font-size: 20px;
+        -fx-text-fill: white;
+}
+
+.satisfiedClue {
+        -fx-background-color: black;
+        -fx-border-color: black;
+        -fx-font-size: 20px;
+        -fx-text-fill: green;
+}
+
+.topLabel {
+         -fx-font-size: 12px;
+         -fx-text-fill: gold;
+         -fx-padding: 5;
+
+}
