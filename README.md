@@ -1,4 +1,4 @@
-# 🧩 a09-akari — Akari Puzzle Game in JavaFX
+# 🧩 Akari Puzzle Game in JavaFX
 
 ## 📌 Introduction
 
